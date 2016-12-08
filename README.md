@@ -18,3 +18,8 @@
 ###Con:
 * Wörk
 * UI geht flöten
+
+
+###Calibration
+* Kamera Tool: http://wiki.ros.org/ethzasl_ptam
+* Pattern: http://answers.ros.org/upfiles/1445364615759335.png -> Blender -> 3D Modell / oder Ausdrucken
