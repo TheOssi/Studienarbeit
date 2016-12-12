@@ -23,3 +23,5 @@
 ###Calibration
 * Kamera Tool: http://wiki.ros.org/ethzasl_ptam
 * Pattern: http://answers.ros.org/upfiles/1445364615759335.png -> Blender -> 3D Modell / oder Ausdrucken
+* Pfade zum .gazebo Ordner angeben!
+* die Bilder für Calibration müssen im 8bit Grauwert Bild übergeben werden!
