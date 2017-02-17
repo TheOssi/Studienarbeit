@@ -25,3 +25,7 @@
 * Pattern: http://answers.ros.org/upfiles/1445364615759335.png -> Blender -> 3D Modell / oder Ausdrucken
 * Pfade zum .gazebo Ordner angeben!
 * die Bilder für Calibration müssen im 8bit Grauwert Bild übergeben werden!
+
+###Cooler Simulator?
+*https://github.com/Microsoft/AirSim
+*https://www.youtube.com/watch?v=-WfTr1-OBGQ&feature=youtu.be
