@@ -29,3 +29,7 @@
 ###Cooler Simulator?
 * https://github.com/Microsoft/AirSim
 * https://www.youtube.com/watch?v=-WfTr1-OBGQ&feature=youtu.be
+
+###Kinect
+* http://wiki.ros.org/openni_tracker
++ http://blog.justsophie.com/installing-kinect-nite-drivers-on-ubuntu-14-04-and-ros-indigo/
