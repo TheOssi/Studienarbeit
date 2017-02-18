@@ -32,4 +32,7 @@
 
 ###Kinect
 * http://wiki.ros.org/openni_tracker
-+ http://blog.justsophie.com/installing-kinect-nite-drivers-on-ubuntu-14-04-and-ros-indigo/
+* http://blog.justsophie.com/installing-kinect-nite-drivers-on-ubuntu-14-04-and-ros-indigo/
+* https://github.com/jstnhuang/cse481c_tutorials/wiki/How-to-run-openni_tracker
+* https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/simple-openni/OpenNI_NITE_Installer-Linux64-0.27.zip
+* http://a-asvadi.ir/install-kinect-xbox360-ubuntu-12-04/
