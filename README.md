@@ -36,3 +36,6 @@
 * https://github.com/jstnhuang/cse481c_tutorials/wiki/How-to-run-openni_tracker
 * https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/simple-openni/OpenNI_NITE_Installer-Linux64-0.27.zip
 * http://a-asvadi.ir/install-kinect-xbox360-ubuntu-12-04/
+
+###Fuzzy
+* https://github.com/fuzzylite/fuzzylite
