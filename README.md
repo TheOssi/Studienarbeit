@@ -39,3 +39,4 @@
 
 ###Fuzzy
 * https://github.com/fuzzylite/fuzzylite
+* http://praghuvamsi.blogspot.de/2014/02/fuzzylite-installation-on-ubuntu.html
