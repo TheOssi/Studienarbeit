@@ -37,6 +37,10 @@
 * https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/simple-openni/OpenNI_NITE_Installer-Linux64-0.27.zip
 * http://a-asvadi.ir/install-kinect-xbox360-ubuntu-12-04/
 
+
+* linke Hand= 4 von unten
+* rechte Hand = 9 von unten
+
 ###Fuzzy
 * https://github.com/fuzzylite/fuzzylite
 * http://praghuvamsi.blogspot.de/2014/02/fuzzylite-installation-on-ubuntu.html
