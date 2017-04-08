@@ -40,7 +40,9 @@
 
 * linke Hand= 4 von unten
 * rechte Hand = 9 von unten
-
+###Kinect Problem Fixes
+* Kinect wird nicht mehr erkannt(No Devices found, openni_launch) -> OpenNI Treiber neuinstallieren
+* Kinect ist abgestürzt und startet nicht mehr -> Strom & USB trennen, eventuell PC neustarten
 ###Fuzzy
 * https://github.com/fuzzylite/fuzzylite
 * http://praghuvamsi.blogspot.de/2014/02/fuzzylite-installation-on-ubuntu.html
